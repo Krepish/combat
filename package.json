@@ -13,6 +13,8 @@
   "author": "pushka",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-pedant": "^1.0.1",
     "nodemon": "^1.19.1"
   },
   "dependencies": {
